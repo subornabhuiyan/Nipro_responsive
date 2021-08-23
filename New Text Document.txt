@@ -1,0 +1,32 @@
+roboto regular
+16point
+white color #ffffff (slider para
+
+ash color #8e8e8e (service para
+
+lato regular
+16point
+ash color #8e8e8e (menu)
+
+30 point 
+ash color #8e8e8e (sevice h1 + about us H1 + 
+
+
+lato medium
+30pint 
+Black color #333333
+
+
+lato Bold
+16point (menu hover)
+Black color #333333 
+
+18 point 
+Black color #333333 (services heading)
+
+60 point (Slider H1)
+White Color #ffffff
+
+
+font awesome
+
